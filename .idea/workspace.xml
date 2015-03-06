@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee7605d0-ed6b-46f8-adcc-3ab873b4996a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="ee7605d0-ed6b-46f8-adcc-3ab873b4996a" name="Default" comment="" />
     <ignored path="McMillon_Francis_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,11 +24,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AssociatingJS/index.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/McMillon_Francis_Output_Assignment/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.31132075" vertical-offset="0" max-vertical-offset="530">
-              <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="240">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/McMillon_Francis_Output_Assignment/js/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.18953069" vertical-offset="0" max-vertical-offset="554">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -53,15 +61,10 @@
         <option value="$PROJECT_DIR$/GTT_Week_2/index.html" />
         <option value="$PROJECT_DIR$/GTT_Week_2/js/script.js" />
         <option value="$PROJECT_DIR$/Values_and_Variables_Console/index.html" />
-        <option value="$PROJECT_DIR$/Values_and_Variables_Console/js/script.js" />
         <option value="$PROJECT_DIR$/Values_and_Variables_Declaring_Values/index.html" />
-        <option value="$PROJECT_DIR$/Values_and_Variables_Declaring_Values/js/script.js" />
         <option value="$PROJECT_DIR$/Values and Variables_Defining_Variables/index.html" />
-        <option value="$PROJECT_DIR$/Values and Variables_Defining_Variables/js/script.js" />
         <option value="$PROJECT_DIR$/Values_and_Variables_String_Boolean/index.html" />
-        <option value="$PROJECT_DIR$/Values_and_Variables_String_Boolean/js/script.js" />
         <option value="$PROJECT_DIR$/Values_and_Variables_Arrays/index.html" />
-        <option value="$PROJECT_DIR$/Values_and_Variables_Arrays/js/script.js" />
         <option value="$PROJECT_DIR$/Expressions-Arithmetic_Operators/index.html" />
         <option value="$PROJECT_DIR$/Expressions-Assignment_Operators/index.html" />
         <option value="$PROJECT_DIR$/Expressions-Basic_Expressions/index.html" />
@@ -91,6 +94,13 @@
         <option value="$PROJECT_DIR$/Setup GitHub/js/script.js" />
         <option value="$PROJECT_DIR$/AssociatingJS/script/script.js" />
         <option value="$PROJECT_DIR$/AssociatingJS/index.html" />
+        <option value="$PROJECT_DIR$/Values and Variables_Defining_Variables/js/script.js" />
+        <option value="$PROJECT_DIR$/Values_and_Variables_Arrays/js/script.js" />
+        <option value="$PROJECT_DIR$/Values_and_Variables_Console/js/script.js" />
+        <option value="$PROJECT_DIR$/Values_and_Variables_Declaring_Values/js/script.js" />
+        <option value="$PROJECT_DIR$/Values_and_Variables_String_Boolean/js/script.js" />
+        <option value="$PROJECT_DIR$/McMillon_Francis_Output_Assignment/index.html" />
+        <option value="$PROJECT_DIR$/McMillon_Francis_Output_Assignment/js/script.js" />
       </list>
     </option>
   </component>
@@ -146,8 +156,18 @@
               <option name="myItemId" value="McMillon_Francis_SDI" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Setup GitHub" />
+              <option name="myItemId" value="McMillon_Francis_SDI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="McMillon_Francis_SDI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="McMillon_Francis_Output_Assignment" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -161,49 +181,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Setup GitHub" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="McMillon_Francis_SDI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="McMillon_Francis_SDI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="McMillon_Francis_SDI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="McMillon_Francis_SDI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AssociatingJS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="McMillon_Francis_SDI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="McMillon_Francis_SDI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AssociatingJS" />
+              <option name="myItemId" value="McMillon_Francis_Output_Assignment" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -373,10 +351,66 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Values and Variables_Defining_Variables/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Values_and_Variables_Arrays/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Values_and_Variables_Declaring_Values/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13537906" vertical-offset="0" max-vertical-offset="554">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Values_and_Variables_Console/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13537906" vertical-offset="0" max-vertical-offset="554">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/AssociatingJS/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31132075" vertical-offset="0" max-vertical-offset="530">
-          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+        <state vertical-scroll-proportion="0.3962264" vertical-offset="0" max-vertical-offset="530">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Values_and_Variables_String_Boolean/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13537906" vertical-offset="0" max-vertical-offset="554">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/McMillon_Francis_Output_Assignment/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="554">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/McMillon_Francis_Output_Assignment/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18953069" vertical-offset="0" max-vertical-offset="554">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
