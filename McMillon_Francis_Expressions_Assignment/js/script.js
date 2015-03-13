@@ -34,8 +34,9 @@
  yearsDriving = Number(yearsDriving);
 
  //The following is the output of all data placed from prompt of users
- console.log("The Fastest Muscle Car Is " + theFastestMuscleCar + ".");
- console.log("The Slowest Muscle Car Is " + theSlowestMuscleCar + ".");
+ console.log("I believe the FASTEST muscle car is the " + theFastestMuscleCar + ".");
+ console.log("I believe the SLOWEST muscle car is the " + theSlowestMuscleCar + ".");
  console.log("Your name is " + myFirstName + " " + myLastName + ".");
- console.log("I have been driving for " + (yearsDriving) + ".");
+ console.log("I have been driving for " + (yearsDriving) + "years" + ".");
  console.log("The average speed of all vehicles recorded " + (averageSpeed) + " MPH" + ".");//Average speed of vehicles is 114.75
+ //I typed in GTO as the fastest, the Challenger as the slowest.  I enter my first and last name, along with my years of driving experience.  The results revealed all of my entries as well as the average speed of the 4 vehicles used in the query.
