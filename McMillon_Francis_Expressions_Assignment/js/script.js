@@ -33,9 +33,9 @@
  yearsDriving = prompt("How many years driving experience do you have?");
  yearsDriving = Number(yearsDriving);
 
- //The following is the output of all data place in file
+ //The following is the output of all data placed from prompt of users
  console.log("The Fastest Muscle Car Is " + theFastestMuscleCar + ".");
  console.log("The Slowest Muscle Car Is " + theSlowestMuscleCar + ".");
  console.log("Your name is " + myFirstName + " " + myLastName + ".");
  console.log("I have been driving for " + (yearsDriving) + ".");
- console.log("The average speed of all vehicles recorded " + (averageSpeed) + "MPH" + ".");//Average speed of vehicles
+ console.log("The average speed of all vehicles recorded " + (averageSpeed) + " MPH" + ".");//Average speed of vehicles is 114.75
