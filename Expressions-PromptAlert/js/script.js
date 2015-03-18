@@ -15,4 +15,4 @@ console.log(userInput);
  console.log(area);
  //
 
- alert("The area of your rectangle is " + area + " ")
+ alert("The area of your rectangle is " + area + " ");
