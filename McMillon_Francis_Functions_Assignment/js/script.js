@@ -42,9 +42,9 @@
      //Math.random() * (max - min) + 10
      for (var i = 0; i < num; i++) {
 
-         var myRandomNumber = Math.round(Math.random() * (max - min) + min);
+         var RandomNumber = Math.round(Math.random() * (max - min) + min);
 
-         randomArray[i] = myRandomNumber;
+         randomArray[i] = RandomNumber;
 
      }
 
@@ -52,12 +52,12 @@
  }
 
  //My main code (Output)
- playDate = quickPick(playDate);
- console.log("Your date of play is " + playDate + ". Good Luck your numbers are as follows:");
+ playDate   = quickPick(playDate);
+ console.log("Your ticket is dated " + playDate + ". Good Luck your numbers are as follows:");
 
- quickPicks = randomNumGen(1, 59, 5);// 5 random numbers 1 thru 59
+ quickPicks = randomNumGen(1, 59);// 5 random lottery numbers 1 thru 59
  console.log(quickPicks);
 
- powerBall = randomNumGen(1, 35, 1);// 1 random number 1 thru 35
+ powerBall  = randomNumGen(1, 35);// 1 random lottery number 1 thru 35
  console.log(powerBall);
 
